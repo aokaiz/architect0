@@ -17,7 +17,7 @@
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
+        <a href="{{ site.url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
@@ -42,11 +42,11 @@
             </a>
           {% endif %}        
 
-          <p class="Links">links <br>
+          <p class="Links">
             <a href="https://jekyllrb.com">jekyll</a>.</p>
 
           {% if site.github.is_project_page %}
-            <p class="repo-owner">This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+            <p class="repo-owner">© Copyright <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
 
         </aside>
