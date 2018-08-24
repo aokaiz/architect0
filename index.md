@@ -4,7 +4,7 @@ layout: default
 
 ## A Little Faith
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+- [Don't Panic!](https://coolaj86.com/articles/dont-panic.html)
 
 ***
 
