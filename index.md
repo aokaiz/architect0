@@ -24,7 +24,7 @@ layout: default
 
 ## AI
 
-### Tensorflow
+### TensorFlow
 
 <ul>
   {% for post in site.categories.tensorflow %}
