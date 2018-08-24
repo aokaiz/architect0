@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <ul>
   {% for post in site.categories.ruby %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
