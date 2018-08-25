@@ -24,7 +24,7 @@ import tensorflow as tf
 
 ## error
 
-![error-tf]({{url.site}}/images/error-tf.png)
+![error-tf]({{site.url}}/images/error-tf.png)
 
 
 ## Ref.
