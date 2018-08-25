@@ -36,8 +36,4 @@ layout: default
 
 ***
 
-## Skill Set
-
-***
-
-Update: 2018-08-24
+Update: 2018-08-25
