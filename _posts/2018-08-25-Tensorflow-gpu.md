@@ -11,6 +11,7 @@ categories: tensorflow
 - Python 3.6.6
 - CUDA 9.0
 - TensorFlow-gpu 1.10.0
+- cudnn 9.0
 
 ## install
 
@@ -26,6 +27,11 @@ import tensorflow as tf
 
 ![error-tf]({{site.url}}/images/error-tf.png)
 
+**ok after uninstall tensorflow cpu version(?)**
+
+`pip3 uninstall tensorflow`
 
 ## Ref.
+
+- [win10+cuda9.0+cuDNN 7.0+Tensorflow1.5（GPU）安装](https://blog.csdn.net/zw__chen/article/details/79374467)
 
