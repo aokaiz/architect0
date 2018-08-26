@@ -59,6 +59,14 @@ OK
 
 GPU is ~5 times faster than CPU version(`GTX750Ti` and `Xeon X5675`)
 
+## seq2seq
+
+>After update to 1.0.0 and above, they change the location of seq2seq from tf.nn.seq2seq to tf.contrib.legacy_seq2seq
+
+[github issue](https://github.com/suriyadeepan/easy_seq2seq/issues/39)
+
+replace `tf.nn.seq2seq` by `tf.contrib.legacy_seq2seq`
+
 ## Ref.
 
 - [win10+cuda9.0+cuDNN 7.0+Tensorflow1.5（GPU）安装](https://blog.csdn.net/zw__chen/article/details/79374467)

@@ -24,6 +24,8 @@ layout: default
 
 ## AI
 
+[companies](./ai-companies.html)
+
 ### TensorFlow
 
 <ul>
