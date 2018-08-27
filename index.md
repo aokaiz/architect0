@@ -5,6 +5,8 @@ layout: default
 ## A Little Faith
 
 - [Don't Panic!](https://coolaj86.com/articles/dont-panic.html)
+- [Tools](./pages/tools.html) 
+
 
 ***
 
@@ -20,11 +22,23 @@ layout: default
   {% endfor %}
 </ul>
 
+### Javascript
+
+[JS Animation Libraries](https://dashbouquet.com/blog/frontend-development/10-javascript-animation-libraries-to-follow-in-2018)
+
+- [Three JS](https://github.com/mrdoob/three.js)
+- [D3.js(Data Visualization)](https://d3js.org/)
+
 ***
 
 ## AI
 
 [companies](./pages/ai-companies.html)
+
+### Cloud
+
+- [AutoML](https://cloud.google.com/automl/)
+- [阿里云PAI](https://data.aliyun.com/product/learn)
 
 ### TensorFlow
 
@@ -35,6 +49,12 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
+***
+
+## Server
+
+- [まとめ(Qiita)](https://qiita.com/you8/items/670bfa6573cec2494c96)
 
 ***
 
