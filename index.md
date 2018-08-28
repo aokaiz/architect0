@@ -12,6 +12,10 @@ layout: default
 
 ## Code
 
+### python
+
+- [Data fit](./pages/python-fit.html)
+
 ### MD
 
 <ul>
@@ -57,5 +61,6 @@ layout: default
 - [まとめ(Qiita)](https://qiita.com/you8/items/670bfa6573cec2494c96)
 
 ***
+
 
 Update: 2018-08-25
