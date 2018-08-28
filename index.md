@@ -62,5 +62,8 @@ layout: default
 
 ***
 
+[memo](./pages/memo.html)
+
+***
 
 Update: 2018-08-25
