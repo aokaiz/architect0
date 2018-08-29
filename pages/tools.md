@@ -9,3 +9,5 @@ layout: default
 ## Academic
 
 - sci-hub
+- [markdown to pdf](http://www.markdowntopdf.com/)
+
