@@ -69,6 +69,8 @@ layout: default
 
 [memo](./pages/memo.html)
 
+[three.js practice](./pages/three.html)
+
 ***
 
 Update: 2018-08-25
