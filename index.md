@@ -62,6 +62,11 @@ layout: default
 
 ***
 
+## School
+- Coursera
+- Udemy
+- ドットインストール
+
 [memo](./pages/memo.html)
 
 ***
