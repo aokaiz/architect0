@@ -59,6 +59,7 @@ layout: default
 ## Server
 
 - [まとめ(Qiita)](https://qiita.com/you8/items/670bfa6573cec2494c96)
+- 华为云
 
 ***
 
