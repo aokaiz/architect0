@@ -4,6 +4,7 @@ layout: default
 
 ## A Little Faith
 
+- [Teach](./pages/teach.html)
 - [Don't Panic!](https://coolaj86.com/articles/dont-panic.html)
 - [Tools](./pages/tools.html) 
 
