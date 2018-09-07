@@ -5,9 +5,8 @@ layout: default
 ## A Little Faith
 
 - [Teach](./pages/teach.html)
-- [Don't Panic!](https://coolaj86.com/articles/dont-panic.html)
 - [Tools](./pages/tools.html) 
-
+- [Don't Panic!](https://coolaj86.com/articles/dont-panic.html)
 
 ***
 
@@ -29,16 +28,17 @@ layout: default
 
 ### Javascript
 
-[JS Animation Libraries](https://dashbouquet.com/blog/frontend-development/10-javascript-animation-libraries-to-follow-in-2018)
+- [10 JavaScript Animation Libraries to Follow in 2018](https://dashbouquet.com/blog/frontend-development/10-javascript-animation-libraries-to-follow-in-2018)
 
 - [Three JS](https://github.com/mrdoob/three.js)
 - [D3.js(Data Visualization)](https://d3js.org/)
+- [three.js practice](./pages/three.html)
 
 ***
 
 ## AI
 
-[companies](./pages/ai-companies.html)
+- [companies](./pages/ai-companies.html)
 
 ### Cloud
 
@@ -69,10 +69,12 @@ layout: default
 - Udemy
 - ドットインストール
 
-[memo](./pages/memo.html)
-
-[three.js practice](./pages/three.html)
+## Management & Career
 
 ***
 
-Update: 2018-08-25
+[memo](./pages/memo.html)
+
+***
+
+Update: 2018-09-07
