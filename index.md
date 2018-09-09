@@ -29,7 +29,6 @@ layout: default
 ### Javascript
 
 - [10 JavaScript Animation Libraries to Follow in 2018](https://dashbouquet.com/blog/frontend-development/10-javascript-animation-libraries-to-follow-in-2018)
-
 - [Three JS](https://github.com/mrdoob/three.js)
 - [D3.js(Data Visualization)](https://d3js.org/)
 - [three.js practice](./pages/three.html)
@@ -69,11 +68,17 @@ layout: default
 - Udemy
 - ドットインストール
 
-## Management & Career
-
 ***
 
-[memo](./pages/memo.html)
+## Memo
+<ul>
+  {% for post in site.categories.memo %}
+    <li>
+      <a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+- [memo](./pages/memo.html)
 
 ***
 
