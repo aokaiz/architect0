@@ -1,5 +1,8 @@
 ---
 layout: default
+title:  "Data Fit"
+date:   2018-09-07 21:30:00 +0800
+categories: python
 ---
 
 ## plot data

@@ -14,7 +14,13 @@ layout: default
 
 ### python
 
-- [Data fit](./pages/python-fit.html)
+<ul>
+  {% for post in site.categories.python %}
+    <li>
+      <a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### MD
 
