@@ -41,6 +41,8 @@ layout: default
 
 [Markdown](./pages/markdown.html)
 
+[Android](./pages/android.html)
+
 ***
 
 ## AI
