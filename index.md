@@ -56,6 +56,7 @@ layout: default
 
 ### TensorFlow
 
+- [playground](https://playground.tensorflow.org)
 <ul>
   {% for post in site.categories.tensorflow %}
     <li>
