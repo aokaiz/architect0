@@ -19,4 +19,5 @@ categories: memo
 - [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
 
 ### swf转mp4
+- [free converter](https://free-swf-to-video-converter-software.en.softonic.com/?ex=BB-527.3)
 
