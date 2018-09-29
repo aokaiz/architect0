@@ -114,3 +114,33 @@ plt.xlabel("Prediction Error [1000$]")
 _ = plt.ylabel("Count")
 plt.show()
 ```
+
+
+## Save & Load Model
+### Save
+```python
+# Save
+model.save_weights('test_weights.h5')
+print("Saved model to test_weights.h5")
+```
+- h5py error `ImportError: `save_model` requires h5py`
+- pip3 install h5py
+  
+### Load
+```python
+model = keras.Sequential([
+    keras.layers.Dense(16, activation=tf.nn.relu,
+                       input_shape=(3,)),
+    keras.layers.Dense(16, activation=tf.nn.relu),
+    keras.layers.Dense(1)
+  ])
+model.load_weights('test_weights.h5')
+try:
+  model.load_weights('test_weights.h5')
+  print("Loaded weights")
+except:
+  print("Load error")
+test = np.array([[6.71,0,18.1]])
+prediction = model.predict(test)
+print("predict:",prediction)
+```
