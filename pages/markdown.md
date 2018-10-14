@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## To Pdf
-1. Use VSCode extension Markdown All in One, transfer to html
+1. (ctrl+shift+p)Use VSCode extension Markdown All in One, transfer to html
 1. Use Chrome to print to pdf
 
 ## Grammer
