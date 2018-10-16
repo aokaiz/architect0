@@ -90,6 +90,7 @@ layout: default
   {% endfor %}
 </ul>
 - [memo](./pages/memo.html)
+- [LaTeX](./pages/LaTeX.html)
 
 ***
 
