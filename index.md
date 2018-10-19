@@ -92,7 +92,8 @@ layout: default
 - [memo](./pages/memo.html)
 - [LaTeX](./pages/LaTeX.html)
 - [Health](./pages/health.html)
+- [Chemdraw Online](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html#)
 
 ***
 
-Update: 2018-09-07
+Update: 2018-10-19
