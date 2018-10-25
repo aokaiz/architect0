@@ -53,6 +53,7 @@ layout: default
 
 - [AutoML](https://cloud.google.com/automl/)
 - [阿里云PAI](https://data.aliyun.com/product/learn)
+- [天池](https://tianchi.aliyun.com/competition/index.htm)
 
 ### TensorFlow
 
@@ -98,4 +99,4 @@ layout: default
 
 ***
 
-Update: 2018-10-19
+Update: 2018-10-25
