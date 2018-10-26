@@ -10,3 +10,11 @@ layout: default
 - MSE
   
   $\frac{1}{n}\sum_{i=1}^n [ y_i - f(x_i) ]^2$
+
+- Other
+  
+  $\TeX$
+
+  $a^2$
+
+  $\sqrt 4$
