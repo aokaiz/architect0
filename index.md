@@ -100,13 +100,16 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
 - [memo](./pages/memo.html)
-- [LaTeX](./pages/LaTeX.html)
 - [Health](./pages/health.html)
+
+## Tools
+- [LaTeX](./pages/LaTeX.html)
 - [Chemdraw Online](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html#)
 - [FlowChart OL(drwo.io)](https://www.draw.io/)
-
+- [易企秀](http://www.eqxiu.com/)
 
 ***
 
-Update: 2018-10-25
+Update: 2018-11-04
