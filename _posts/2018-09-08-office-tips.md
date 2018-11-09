@@ -21,3 +21,6 @@ categories: memo
 ### swf转mp4
 - [free converter](https://free-swf-to-video-converter-software.en.softonic.com/?ex=BB-527.3)
 
+## Excel
+### 工作量统计
+``=SUMPRODUCT(--(ISNUMBER(SEARCH(H2,$F$2:$F$50))),--($E$2:$E$50),--($G$2:$G$50))``
