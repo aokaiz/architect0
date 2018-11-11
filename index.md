@@ -103,12 +103,14 @@ layout: default
 
 - [memo](./pages/memo.html)
 - [Health](./pages/health.html)
+- 统计方法
 
 ## Tools
 - [LaTeX](./pages/LaTeX.html)
 - [Chemdraw Online](https://chemdrawdirect.perkinelmer.cloud/js/sample/index.html#)
 - [FlowChart OL(drwo.io)](https://www.draw.io/)
 - [易企秀](http://www.eqxiu.com/)
+- [mediawiki](https://www.mediawiki.org/wiki/MediaWiki/zh-hans)
 
 ## Grammar
 - [DeepGrammar](http://deepgrammar.com/tryitout)
