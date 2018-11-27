@@ -115,7 +115,7 @@ layout: default
 ## Data Science
 - [exploratory](https://exploratory.io/)
   - [ja](https://ja.exploratory.io/)
-
+- [AWS Machine Learning](https://aws.amazon.com/cn/training/learning-paths/machine-learning/)
 ## Grammar
 - [DeepGrammar](http://deepgrammar.com/tryitout)
 - [Grammarly](https://www.grammarly.com/)
