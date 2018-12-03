@@ -121,6 +121,9 @@ layout: default
 - [Grammarly](https://www.grammarly.com/)
 - [nounplus](https://www.nounplus.net/)
 
+## AI & Science
+- [AlphaFold](https://deepmind.com/blog/alphafold/)
+
 ***
 
-Update: 2018-11-04
+Update: 2018-12-03
