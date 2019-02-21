@@ -12,8 +12,9 @@ layout: default
 
 ## 计划表
 
+![schedule-2018-2019-2]({{site.url}}/images/schedule-2018-2019-2.png)
+
+![class-2018-2019-2]({{site.url}}/images/class-2018-2019-2.png)
+
 ![schedule]({{site.url}}/images/schedule-plastic-eng.png)
-
-
-
 
