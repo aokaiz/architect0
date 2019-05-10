@@ -24,3 +24,9 @@ categories: memo
 ## Excel
 ### 工作量统计
 ``=SUMPRODUCT(--(ISNUMBER(SEARCH(H2,$F$2:$F$50))),--($E$2:$E$50),--($G$2:$G$50))``
+
+### get a list of unique and distinct values in Excel
+- [ref.](https://www.ablebits.com/office-addins-blog/2016/04/21/get-list-unique-values-excel/)
+```
+=IFERROR(INDEX($A$2:$A$10, MATCH(0,INDEX(COUNTIF($B$1:B1, $A$2:$A$10)+(COUNTIF($A$2:$A$10, $A$2:$A$10)<>1),0,0), 0)), "")
+```
