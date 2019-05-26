@@ -30,3 +30,6 @@ categories: memo
 ```
 =IFERROR(INDEX($A$2:$A$10, MATCH(0,INDEX(COUNTIF($B$1:B1, $A$2:$A$10)+(COUNTIF($A$2:$A$10, $A$2:$A$10)<>1),0,0), 0)), "")
 ```
+
+### 汉字转拼音
+- [百度经验](https://jingyan.baidu.com/article/22a299b5c006aa9e19376a29.html)
