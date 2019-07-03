@@ -14,6 +14,14 @@ msi2lmp.exe <ROOTNAME>
 -- <ROOTNAME> is the base name of the .car and .mdf files
 ```
 
+## Topotools
+1. Save pdb file in MS
+2. Read by vmd
+3. Use topotools
+
+- hbond
+- [forcefiled](https://lammps.sandia.gov/threads/msg73381.html)
+
 ## Draw
 - Benzene
     - Seclect→Modify bond type→Partial double bond
