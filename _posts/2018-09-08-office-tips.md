@@ -37,3 +37,5 @@ categories: memo
 ### Origin
 此对象创建于 Origin50中。此应用程序不能用来打开此对象。请确认此应用程序已正确安装，并且未被删除、移动或重命名。
 https://www.zhihu.com/question/31080935
+
+### Endnote
