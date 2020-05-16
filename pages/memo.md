@@ -31,7 +31,7 @@ paper structure
     - SolidWorks 2018中文版机械设计从入门到精通:移动学习版(赵罘) TH122/1486(2)
     - SolidWorks高级应用教程 TP391.72/991=5(2)
   - PRO/E
-    - 
+  - C++ Primer Plus
 
 ### TRIZ理论与创新设计方法
 - 先发散思维，后收敛思维
